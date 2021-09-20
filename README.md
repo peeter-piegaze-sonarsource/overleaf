@@ -24,6 +24,8 @@
 
 [Overleaf](https://www.overleaf.com) is an open-source online real-time collaborative LaTeX editor. We run a hosted version at [www.overleaf.com](https://www.overleaf.com), but you can also run your own local version, and contribute to the development of Overleaf.
 
+Blah blah
+
 *[If you want help installing and maintaining Overleaf in your lab or workplace, we offer an officially supported version called Overleaf Server Pro. It also comes with extra security and admin features. Click here to find out more!](https://www.overleaf.com/for/enterprises)*
 
 ## Keeping up to date
